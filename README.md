@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lawrence Dunbar
 - 👀 I’m interested in Full Stack Web Development
-- 📚I’m currently learning Rust & Web3 Technologies
+- 📚 I’m currently learning Rust & Web3 Technologies
 - 💞️ I’m looking to collaborate on any interesting open source code
 - 📫 How to reach me l a w r e n c e . d u n b a r 3 [@] g m a i l . c o m
 
